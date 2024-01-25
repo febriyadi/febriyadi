@@ -2,4 +2,5 @@
 <h1 align="center">
 Hi, I'm Febriyadi 👋
 </h1>
+<h3 align="center">A student currently passionately developing mobile applications utilizing modern technology! 🚀</h3>
 
